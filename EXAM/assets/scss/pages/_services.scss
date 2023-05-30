@@ -1,0 +1,27 @@
+#offered{
+    .cards{
+        .content{
+            &:hover{
+                background-color:  #fab700;
+                transition: 0.5s;
+               } 
+
+        }
+       
+      
+    }
+    padding: 60px 0;
+     .offered{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      
+    }.row{
+        color: #777777;
+        font-family: "Poppins", sans-serif;
+        font-size: 14px;
+        font-weight: 300;
+        line-height: 1.625em;
+    }
+   
+}

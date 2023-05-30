@@ -1,0 +1,53 @@
+{
+  "offer": [
+    {
+      "img": "./assets/images/s1.jpg",
+      "title": "Basic & Common Repairs",
+      "description": "Computer users and programmers have become so accustomed to using Windows, even for the changing capabilities and the appearances of the graphical.",
+      "id": 2,
+      "price": 29
+    },
+    {
+      "img": "./assets/images/s2.jpg",
+      "title": "Brake Repairs & Services",
+      "description": "Computer users and programmers have become so accustomed to using Windows, even for the changing capabilities and the appearances of the graphical.",
+      "id": 3,
+      "price": 141
+    },
+    {
+      "img": "./assets/images/s3.jpg",
+      "title": "Preventive Maintenance",
+      "description": "Computer users and programmers have become so accustomed to using Windows, even for the changing capabilities and the appearances of the graphical.re",
+      "id": 1,
+      "price": 21
+    },
+    {
+      "img": "./assets/images/s3.jpg",
+      "title": "Preventive Maintenance",
+      "description": "Computer users and programmers have become so accustomed to using Windows, even for the changing capabilities and the appearances of the graphical.re",
+      "id": 1,
+      "price": 21
+    },
+    {
+      "img": "./assets/images/s3.jpg",
+      "title": "Preventive Maintenance",
+      "description": "Computer users and programmers have become so accustomed to using Windows, even for the changing capabilities and the appearances of the graphical.re",
+      "id": 1,
+      "price": 21
+    },
+    {
+      "img": "./assets/images/s3.jpg",
+      "title": "Preventive Maintenance",
+      "description": "Computer users and programmers have become so accustomed to using Windows, even for the changing capabilities and the appearances of the graphical.re",
+      "id": 1,
+      "price": 21
+    },
+    {
+      "title": "Porro voluptatem vo",
+      "description": "Distinctio Eum ab e",
+      "img": "./assets/image/undefined",
+      "id": 4
+    }
+  ],
+  "favs": []
+}

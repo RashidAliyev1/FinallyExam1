@@ -1,0 +1,52 @@
+#home{
+    background-image: url("https://preview.colorlib.com/theme/security/img/header-bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    .home{
+        color: white;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 80vh;
+        h1{
+            font-size:45px;
+            font-weight: 650;
+        }
+        .row{
+            .content{
+                h6{
+                    font-size: 14px;
+                    font-weight: 400;
+                    text-transform: uppercase;
+                    letter-spacing: 2px;
+                }
+                h1{
+                    font-size: 45px;
+                }
+                .btn{
+                    background-color: #fab700;
+                    line-height: 42px;
+                    padding-left: 40px;
+                    padding-right: 40px;
+                    border: none;
+                    color: #fff;
+                    display: inline-block;
+                    font-weight: 500;
+                    position: relative;
+                    border: 1px solid transparent;
+                    transition: 0.3s;
+                    cursor: pointer;
+                    position: relative;
+                    &:hover{
+                        background-color: transparent;
+                        color: #fab700;
+                        border: 1px solid #fab700;
+                    }
+                }
+                }
+            }
+        }
+    }

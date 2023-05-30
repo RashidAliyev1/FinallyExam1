@@ -1,0 +1,20 @@
+#features{
+    background-color: gainsboro;
+    padding: 60px 0;
+    .row{
+        h4{
+            margin-bottom: 20px;
+            margin-top: 20px;
+        }
+        p{
+            margin-top: 0;
+            margin-bottom: 1rem;
+        }
+    }.col-lg-4{
+        background-color: white;
+        &:hover{
+            background-color: #fab700 ;
+            transition: 0.5s;
+        }
+    }
+}
